@@ -1,0 +1,53 @@
+.entryPane{
+	-fx-background-color: #FDD600;
+}
+
+.levelPane{
+	-fx-background-color: #FDD600;
+}
+
+.gamePane{
+	-fx-background-color: #FDD600;
+}
+
+.startButton{
+	-fx-border-radius: 3px;
+	-fx-background-color: #E7E7E7;
+	-fx-text-fill: black;
+	-fx-font-size: 32;
+	-fx-padding: 10px;
+	-fx-border: 5px;
+	-fx-border-color: #555555;
+}
+
+.exitButton{
+	-fx-border-radius: 3px;
+	-fx-background-color: #E7E7E7;
+	-fx-text-fill: black;
+	-fx-font-size: 32;
+	-fx-padding: 10 25 10 25;
+	-fx-border: 5px;
+	-fx-border-color: #555555;
+}
+
+
+.levelButton{
+	-fx-margin-left: 10px;
+	-fx-border-radius: 3px;
+	-fx-background-color: #E7E7E7;
+	-fx-text-fill: black;
+	-fx-font-size: 64;
+	-fx-padding: 10 30 10 30;
+	-fx-border: 5px;
+	-fx-border-color: #555555;
+}
+
+.backButton{
+	-fx-border-radius: 3px;
+	-fx-background-color: #E7E7E7;
+	-fx-text-fill: black;
+	-fx-font-size: 32;
+	
+	-fx-border: 5px;
+	-fx-border-color: #555555;
+}
