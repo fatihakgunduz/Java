@@ -1,1 +1,1 @@
-# Java-Homeworks and Projects
+# Java Projects
